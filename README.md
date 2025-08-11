@@ -70,7 +70,7 @@
 
 **Deliverables:** Comprehensive strategy deck with upselling frameworks and market expansion roadmap
 
-🔗 **[Read Strategy Report]((https://nn-projects.github.io/flick-strategy-project/))**
+🔗 **[Read Stragetic Report](https://nn-projects.github.io/flick-strategy-project/)**
 
 ---
 
