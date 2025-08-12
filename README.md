@@ -124,6 +124,7 @@ Interactive dashboard examining Australia's energy consumption by state, a multi
 **Business value**
 - Makes long-term trends and state-level differences easy to explore — useful for energy policy analysis, academic reporting, and stakeholder briefings.
 
+
 🔗 **[View Interactive Dashboard](https://tngu0367.github.io/FIT3179/)**
 ---
 
