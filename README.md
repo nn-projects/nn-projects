@@ -106,33 +106,25 @@
 
 ---
 
-### 🏗️ **BuildMyHome** — Digital Transformation Initiative
-*Business Analyst | Mar–May 2024*
+# 📊 Energy Use in Australia — Energy Analytics Dashboard
+*Data Analyst | FIT3179 — Assignment 2*
 
-**The Challenge:** Melbourne home builder struggled with fragmented communication between clients, operations, and service teams
+**Summary**
+Interactive dashboard examining Australia's energy consumption by state, a multi-decade Energy Index (1982–2023), and historical imports/exports trends to support analysis and discussion.
 
-**My Solution:**  
-- Conducted comprehensive PACT analysis and stakeholder interviews  
-- Designed a centralized project tracking system with intuitive wireframes  
-- Created detailed user personas and use cases for the development team  
+**Key insights**
+- State energy mix (2020): NSW — oil 43.7%, coal 37.1%; WA — gas 54.5%; Tasmania — renewables 44.1%.
+- Energy index (1982–2023): rising consumption in Queensland and Western Australia; Queensland peaked ~2014; Western Australia shows notable growth after 2007.
+- Exports (2022–23): coal 9,625.9 PJ (down from 11,088.2 PJ in 2019–20); LNG 4,540.9 PJ; oil & LPG 724.5 PJ; refined products 12.6 PJ.
+- Imports (1982–2023): refined petroleum peaks and natural gas import growth since the mid-2000s; refined petroleum peaked at 1,825.8 PJ in 2022–23.
 
-**Impact:** Streamlined internal workflows and improved client satisfaction through better transparency
+**Technical**
+- Processed and visualised multi-decade, state-level energy datasets and produced interactive charts and maps for exploratory analysis.
 
-🔗 **[View Full Case Study]()**
+**Business value**
+- Makes long-term trends and state-level differences easy to explore — useful for energy policy analysis, academic reporting, and stakeholder briefings.
 
----
-
-### 📊 **Australia Housing Market Analytics** — Data Intelligence Dashboard
-*Data Analyst | Mar-May 2024*
-
-**Insight Delivered:** Identified strong correlation between population growth and housing prices in NSW/VIC (2004-2021)
-
-**Technical Achievement:** Built an interactive Python dashboard using Plotly for dynamic data exploration
-
-**Business Value:** Provided actionable market intelligence for investment decision-making
-
-🔗 **[View Interactive Dashboard]()**
-
+🔗 **[View Interactive Dashboard](https://tngu0367.github.io/FIT3179/)**
 ---
 
 ## 🎯 Ready to Create Impact
@@ -145,8 +137,7 @@ I'm actively seeking opportunities where I can leverage my unique combination of
 
 ## 📞 Let's Connect
 
-📧 **Email:** nthn.0406@gmail.com | **Phone:** 0915795745
+📧 **Email:** nthn.0406@gmail.com | **Phone:** 0915795745  
 📍 **Location:** Vietnam | Open to remote/hybrid opportunities globally
 ---
 
-*"Turning complex problems into elegant solutions, one insight at a time."*
