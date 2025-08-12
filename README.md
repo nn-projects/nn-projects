@@ -59,7 +59,7 @@
 
 **Skills Demonstrated:** Cross-functional collaboration, requirements documentation, quality assurance
 
-🔗 **[Explore the Platform](h)**
+🔗 **[Explore the Platform](https://github.com/nn-projects/jenbury_financial/blob/main/README.md)**
 
 ---
 
