@@ -126,6 +126,7 @@ Interactive dashboard examining Australia's energy consumption by state, a multi
 
 
 🔗 **[View Interactive Dashboard](https://tngu0367.github.io/FIT3179/)**
+
 ---
 
 ## 🎯 Ready to Create Impact
