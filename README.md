@@ -86,7 +86,7 @@
 
 **Skills Demonstrated:** Mobile development, database design, API integration, user experience design, software architecture
 
-🔗 **[View Project Repository](https://github.com/nn-projects/android_project)**
+🔗 **[View Project Repository](https://github.com/nn-projects/android_project/blob/main/README.md)**
 
 ---
 
@@ -102,7 +102,7 @@
 
 **Deliverables:** Comprehensive strategy deck with upselling frameworks and market expansion roadmap
 
-🔗 **[Read Strategic Report](https://nn-projects.github.io/flick-strategy-project/)**
+🔗 **[Read Strategic Report](https://github.com/nn-projects/flick-strategy-project/blob/main/README.md)**
 
 ---
 
