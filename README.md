@@ -50,7 +50,7 @@
 
 **Recognition:** Nominated for **Best IT System for Nonprofit Organizations**
 
-**The Challenge:** Nonprofit needed a scalable learning management system for their educational programs
+**The Challenge:** The Nonprofit needed a scalable learning management system for their educational programs
 
 **My Contribution:**  
 - Translated business requirements into technical specifications  
@@ -60,6 +60,22 @@
 **Skills Demonstrated:** Cross-functional collaboration, requirements documentation, quality assurance
 
 🔗 **[Explore the Platform](https://github.com/nn-projects/jenbury_financial/blob/main/README.md)**
+
+---
+
+### 🧼 **Flick Pest Control** — Strategic Growth Consulting
+*Industry Research & Data Analytics Lead | Mar–Jun 2025*
+
+**Business Challenge:** The Hygiene division needed a data-driven strategy for market expansion and revenue optimization
+
+**My Strategic Analysis:**  
+- Performed market segmentation using R and advanced Excel modeling  
+- Developed revenue forecasting models and territory optimization recommendations  
+- Identified high-growth sectors: aged care, childcare, recreation facilities  
+
+**Deliverables:** Comprehensive strategy deck with upselling frameworks and market expansion roadmap
+
+🔗 **[Read Strategic Report](https://github.com/nn-projects/flick-strategy-project/blob/main/README.md)**
 
 ---
 
@@ -90,24 +106,8 @@
 
 ---
 
-### 🧼 **Flick Pest Control** — Strategic Growth Consulting
-*Industry Research & Data Analytics Lead | Mar–Jun 2025*
-
-**Business Challenge:** The Hygiene division needed a data-driven strategy for market expansion and revenue optimization
-
-**My Strategic Analysis:**  
-- Performed market segmentation using R and advanced Excel modeling  
-- Developed revenue forecasting models and territory optimization recommendations  
-- Identified high-growth sectors: aged care, childcare, recreation facilities  
-
-**Deliverables:** Comprehensive strategy deck with upselling frameworks and market expansion roadmap
-
-🔗 **[Read Strategic Report](https://github.com/nn-projects/flick-strategy-project/blob/main/README.md)**
-
----
-
 ### 📊 Energy Use in Australia — Energy Analytics Dashboard
-*Data Analyst | Aug - Dec 2024*
+*Data Analyst | Aug-Dec 2024*
 
 **Summary**
 Interactive dashboard examining Australia's energy consumption by state, a multi-decade Energy Index (1982–2023), and historical imports/exports trends to support analysis and discussion.
