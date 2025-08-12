@@ -32,6 +32,11 @@
 - **Visualization:** Power BI, Plotly, Excel advanced functions  
 - **Tools:** Git/GitHub, API integration, ERP systems  
 
+**Mobile & Software Development**  
+- **Android Development:** Java, MVVM architecture, Room database  
+- **APIs & Integration:** Google Maps SDK, Geocoding services, RESTful APIs  
+- **Database Management:** SQLite, real-time data synchronization  
+
 **Design & Collaboration**  
 - **Prototyping:** Figma, Balsamiq, Lucidchart, Miro  
 - **Project Management:** Trello, Jira, stakeholder presentation skills  
@@ -58,6 +63,33 @@
 
 ---
 
+### 📱 **EventMaster** — Enterprise-Level Android Application
+*Mobile Application Developer | Aug–Dec 2024*
+
+**Academic Excellence:** Advanced Android development project demonstrating enterprise-level software design and modern mobile development practices
+
+**The Challenge:** Design a comprehensive event management application with robust data persistence, real-time updates, and geospatial integration
+
+**My Technical Achievement:**  
+- Implemented **MVVM architecture** with Room database for scalable data management  
+- Integrated **Google Maps SDK** with custom markers and geocoding services  
+- Built secure authentication system with session management and credential persistence  
+- Designed reactive UI using **LiveData** for real-time data binding and automatic updates  
+
+**Key Features Delivered:**  
+- Complete user registration and authentication flow with validation  
+- Event creation and management with category organization  
+- Interactive mapping with location-based category visualization  
+- Material Design UI with navigation drawer and responsive layouts  
+
+**Technical Stack:** Java, Android SDK, Room Database, Google Maps API, Material Design, MVVM Architecture
+
+**Skills Demonstrated:** Mobile development, database design, API integration, user experience design, software architecture
+
+🔗 **[View Project Repository](https://github.com/nn-projects/android_project)**
+
+---
+
 ### 🧼 **Flick Pest Control** — Strategic Growth Consulting
 *Industry Research & Data Analytics Lead | Mar–Jun 2025*
 
@@ -70,7 +102,7 @@
 
 **Deliverables:** Comprehensive strategy deck with upselling frameworks and market expansion roadmap
 
-🔗 **[Read Stragetic Report](https://nn-projects.github.io/flick-strategy-project/)**
+🔗 **[Read Strategic Report](https://nn-projects.github.io/flick-strategy-project/)**
 
 ---
 
@@ -90,7 +122,6 @@
 
 ---
 
-
 ### 📊 **Australia Housing Market Analytics** — Data Intelligence Dashboard
 *Data Analyst | Mar-May 2024*
 
@@ -104,21 +135,18 @@
 
 ---
 
-
-
 ## 🎯 Ready to Create Impact
 
-I'm actively seeking opportunities where I can leverage my unique combination of business strategy and technical implementation skills. Whether it's optimizing business processes, building data-driven solutions, or bridging the gap between stakeholders and technical teams, I'm ready to contribute from day one.
+I'm actively seeking opportunities where I can leverage my unique combination of business strategy and technical implementation skills. Whether it's optimizing business processes, building data-driven solutions, developing mobile applications, or bridging the gap between stakeholders and technical teams, I'm ready to contribute from day one.
 
-**🔍 Ideal Roles:** Business Analyst, Data Analyst, Product Analyst, Strategy Consultant, Business Intelligence Analyst
+**🔍 Ideal Roles:** Business Analyst, Data Analyst, Product Analyst, Strategy Consultant, Business Intelligence Analyst, Mobile Application Developer
 
 ---
 
 ## 📞 Let's Connect
 
-📧 **Email:** nthn.0406@gmail.com 
+📧 **Email:** nthn.0406@gmail.com | **Phone:** 0915795745
 📍 **Location:** Vietnam | Open to remote/hybrid opportunities globally
-
 ---
 
 *"Turning complex problems into elegant solutions, one insight at a time."*
