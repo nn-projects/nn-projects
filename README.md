@@ -106,13 +106,13 @@
 
 ---
 
-# 📊 Energy Use in Australia — Energy Analytics Dashboard
-*Data Analyst | FIT3179 — Assignment 2*
+### 📊 Energy Use in Australia — Energy Analytics Dashboard
+*Data Analyst | Aug - Dec 2024*
 
 **Summary**
 Interactive dashboard examining Australia's energy consumption by state, a multi-decade Energy Index (1982–2023), and historical imports/exports trends to support analysis and discussion.
 
-**Key insights**
+**Key insights:**
 - State energy mix (2020): NSW — oil 43.7%, coal 37.1%; WA — gas 54.5%; Tasmania — renewables 44.1%.
 - Energy index (1982–2023): rising consumption in Queensland and Western Australia; Queensland peaked ~2014; Western Australia shows notable growth after 2007.
 - Exports (2022–23): coal 9,625.9 PJ (down from 11,088.2 PJ in 2019–20); LNG 4,540.9 PJ; oil & LPG 724.5 PJ; refined products 12.6 PJ.
